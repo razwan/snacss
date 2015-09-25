@@ -1,0 +1,16 @@
+{
+    "name": "snaCSS",
+    "devDependencies": {
+        "cssnano": "*",
+        "es6-promise": "*",
+        "gulp": "*",
+        "gulp-postcss": "*",
+        "gulp-rename": "*",
+        "perfectionist": "*",
+        "postcss-clearfix": "*",
+        "postcss-scss": "*",
+        "postcss-short": "*",
+        "precss": "*",
+        "rtlcss": "*"
+    }
+}

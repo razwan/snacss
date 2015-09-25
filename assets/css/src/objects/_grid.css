@@ -1,0 +1,11 @@
+.grid {
+	@extend .clearfix;
+	list-style: none;
+	margin-left: -1rem;
+
+	&__item {
+		display: inline-block;
+		float: left;
+		margin-left: 1rem;
+	}
+}

@@ -1,0 +1,17 @@
+.media {
+	@extend .clearfix;
+
+	&__img {
+		float: left;
+		margin-right: 1rem;
+
+		> img {
+			display: block;
+		}
+	}
+
+	&__body {
+		display: block;
+		overflow: hidden;
+	}
+}
